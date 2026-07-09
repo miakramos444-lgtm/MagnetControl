@@ -9,4 +9,4 @@ Funcionalidad principal: Facilitar el aprendizaje y la gestión de experimentos 
 
 Autor:Mia Kataleya Diaz Ramos.
 
-Enlace publicado en Render: https://tu-enlace-de-render.onrender.com
+Enlace publicado en Render: [https://tu-enlace-de-render.onrender.com](https://magnetcontrol.onrender.com/)
